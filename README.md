@@ -1,0 +1,2 @@
+# Getit
+Git Seminar
